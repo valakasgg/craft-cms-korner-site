@@ -1,0 +1,10 @@
+{
+  "buttons": [
+    "bold", 
+    "italic",
+    "link", 
+    "file"
+  ],
+  "plugins": ["fullscreen"],
+  "toolbarFixed": true
+}
